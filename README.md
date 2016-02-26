@@ -1,4 +1,4 @@
-# goaccess
+# GoAccess
 GoAccess Docker Container
 ## Usage
 ```
